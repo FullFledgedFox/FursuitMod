@@ -1,0 +1,24 @@
+package com.FullFledgedFox.FursuitMod;
+
+import cpw.mods.fml.common.Mod;
+
+@Mod(modid = Reference.MODID, name = Reference.NAME, version = Reference.Version)
+
+public class FursuitMod 
+{
+		@Mod.EventHandler
+		public void preInit(FMLPreInitilizationEvent event)
+		{
+				
+		}
+		@Mod.EventHandler
+		public void Init(FMLInitilizationEvent event)
+		{
+			
+		}
+		@Mod.EventHandler
+		public void postInit(FMLPostInitilizationEvent event)
+		{
+			
+		}
+}
