@@ -1,0 +1,10 @@
+package com.FullFledgedFox.FursuitMod;
+
+public class ModItems 
+{
+	
+	public static Item 
+	
+	public static void init()
+	
+}

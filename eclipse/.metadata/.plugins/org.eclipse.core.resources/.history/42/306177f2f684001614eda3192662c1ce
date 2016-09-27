@@ -1,0 +1,5 @@
+item.ItemFoxHelmet.name= Fox Head
+item.ItemFoxChestplate.name= Fox Torso
+item.ItemFoxLeggings.name= Fox Legs
+item.ItemFoxBoots.name= Fox Paws
+itemGroup.tabFursuitMod= Fursuit Mod

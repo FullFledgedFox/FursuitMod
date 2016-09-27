@@ -1,0 +1,38 @@
+package com.FullFledgedFox.FursuitMod;
+
+import com.FullFledgedFox.FursuitMod.help.Reference;
+
+import cpw.mods.fml.common.Mod;
+import cpw.mods.fml.common.event.FMLInitializationEvent;
+import cpw.mods.fml.common.event.FMLPostInitializationEvent;
+import cpw.mods.fml.common.event.FMLPreInitializationEvent;
+import net.minecraft.item.ItemArmor;
+import net.minecraftforge.common.util.EnumHelper;
+
+@Mod(modid = Reference.MODID, name = Reference.NAME, version = Reference.Version)
+
+		public class FursuitMod
+
+
+
+																																//How much armor absorbs
+		public static final ItemArmor.ArmorMaterial foxArmorMaterial = EnumHelper.addArmorMaterial("foxArmorMaterial",5000,new int[]{2,7,5,3},30);
+
+{
+	/*forge loading stuffz*/
+		@Mod.EventHandler
+		public void preInit(FMLPreInitializationEvent event)
+		{
+				
+		}
+		@Mod.EventHandler
+		public void Init(FMLInitializationEvent event)
+		{
+			
+		}
+		@Mod.EventHandler
+		public void postInit(FMLPostInitializationEvent event)
+		{
+			
+		}
+}

@@ -1,11 +1,29 @@
-[00:21:39] [main/INFO]: Setting user: Player528
-[00:21:40] [Client thread/INFO]: LWJGL Version: 2.9.1
-[00:21:48] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Fursuit Mod
-[00:21:48] [Sound Library Loader/INFO]: Sound engine started
-[00:21:49] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
-[00:21:49] [Client thread/INFO]: Created: 16x16 textures/items-atlas
-[00:21:49] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Fursuit Mod
-[00:21:49] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[00:21:49] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[00:21:50] [Sound Library Loader/INFO]: Sound engine started
-[00:22:24] [Client thread/INFO]: Stopping!
+[11:25:55] [main/INFO]: Setting user: Player564
+[11:25:56] [Client thread/INFO]: LWJGL Version: 2.9.1
+[11:26:02] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Fursuit Mod
+[11:26:03] [Sound Library Loader/INFO]: Sound engine started
+[11:26:04] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[11:26:04] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[11:26:04] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Fursuit Mod
+[11:26:04] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[11:26:04] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[11:26:05] [Sound Library Loader/INFO]: Sound engine started
+[11:26:09] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[11:26:09] [Server thread/INFO]: Generating keypair
+[11:26:09] [Server thread/INFO]: Preparing start region for level 0
+[11:26:10] [Server thread/INFO]: Changing view distance to 12, from 10
+[11:26:10] [Server thread/INFO]: Player564[local:E:e5eb99bd] logged in with entity id 152 at (57.5, 64.0, 73.5)
+[11:26:10] [Server thread/INFO]: Player564 joined the game
+[11:26:19] [Server thread/INFO]: Player564 has just earned the achievement [Taking Inventory]
+[11:26:19] [Client thread/INFO]: [CHAT] Player564 has just earned the achievement [Taking Inventory]
+[11:26:33] [Server thread/INFO]: Saving and pausing game...
+[11:26:33] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[11:26:34] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[11:26:34] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[11:26:34] [Server thread/INFO]: Stopping server
+[11:26:34] [Server thread/INFO]: Saving players
+[11:26:34] [Server thread/INFO]: Saving worlds
+[11:26:34] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[11:26:34] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[11:26:34] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[11:26:35] [Client thread/INFO]: Stopping!
